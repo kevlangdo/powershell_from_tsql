@@ -1,0 +1,1 @@
+xp_cmdshell 'powershell.exe "c:\\PS_Scripts\\diskSpaceTable.ps1"'

@@ -1,0 +1,1 @@
+xp_cmdshell 'PowerShell.exe Install-Module -Name NTFSSecurity -RequiredVersion 4.2.4'
